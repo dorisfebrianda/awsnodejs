@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: awsnodejs
-    image: awsnodejs:TAG
+    image: dorisfebrianda93/awsnodejs:TAG
     ports:
     - name: nodejs-port
       containerPort: 6000
