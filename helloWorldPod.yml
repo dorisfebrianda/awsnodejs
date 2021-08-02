@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: helloworld.oracleau.cloud
+  name: helloworldnodejs
   labels:
-    app: helloworld.oracleau.cloud
+    app: helloworldnodejs
 spec:
   containers:
   - name: awsnodejs
